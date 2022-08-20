@@ -1,6 +1,6 @@
 ### 👋 Olá! Eu sou o Ben-Hur
 - 🌱 Estudante de desenvolvimento Web pela Trybe
-- 🌱 Cursando análise e desenvolvimento de sistemas pela Unimar
+- 🌱 Cursando ADS pela Unimar [Universidade de Marília](https://oficial.unimar.br/)
 - 🌱 Bootcamps pela DIO
 
 
