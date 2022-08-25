@@ -12,21 +12,21 @@
 </div>
 
 <div>
- <img align="center" alt="Ben-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="center" alt="Ben-Git" height="40" width="40" src="https://img.icons8.com/color/48/000000/git.png">
 <img align="center" alt="Ben-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="Ben-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" alt="Ben-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
+
 
 ##
 
 <div>
-  <a href="https://www.instagram.com/benhurcarneiro/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-   badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ben-hur-carvalho-318a02201/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for- the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:benhurcarvalho2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href = "#"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" target="_blank"></a>
-  
+<a href = "https://github.com/Benhurcarvalho"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>  
+<a href = "mailto:benhurcarvalho2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>    
+<a href="https://www.linkedin.com/in/ben-hur-carvalho-318a02201/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 
-https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white
+
 
 ![Snake animation](https://github.com/Benhurcarvalho/Benhurcarvalho/blob/output/github-contribution-grid-snake.svg)
 
