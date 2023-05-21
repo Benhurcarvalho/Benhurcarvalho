@@ -12,7 +12,7 @@
 </div>
 
 <div>
-<img align="center" alt="Ben-Git" height="40" width="40" src="https://img.icons8.com/color/48/000000/git.png">
+<img align="center" alt="Ben-Git" height="45" width="45" src="https://img.icons8.com/color/48/000000/git.png">
 <img align="center" alt="Ben-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="Ben-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="Ben-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -22,9 +22,9 @@
 <img align="center" alt="Ben-bulma" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg">
 <img align="center" alt="Ben-npm" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
 <img align="center" alt="Ben-nodejs" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+<img align="center" alt="Ben-mysql" height="65" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+<img align="center" alt="Ben-docker" height="65" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
 <img align="center" alt="Ben-vscode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-<img align="center" alt="Ben-mysql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg">
-<img align="center" alt="Ben-docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg">
 </div>
 
 
