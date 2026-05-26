@@ -5,11 +5,11 @@
 
 
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/Benhurcarvalho">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Benhurcarvalho&theme=blue-green"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benhurcarvalho&theme=blue-green"/>
-</div>
+</div> -->
 
 <div>
 <img align="center" alt="Ben-Git" height="45" width="45" src="https://img.icons8.com/color/48/000000/git.png">
